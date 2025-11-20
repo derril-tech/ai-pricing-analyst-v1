@@ -1,7 +1,7 @@
 # 🤖 LangGraph Pricing Analyst
 **with OpenAI SDK**
 
-🌐 **See the Live Application**: [https://web-for-price-analyst-production.up.railway.app/](https://web-for-price-analyst-production.up.railway.app/)
+🌐 **See the Live Application**: [https://ai-pricing-analyst.vercel.app/](https://ai-pricing-analyst.vercel.app/)
 
 > **AI-powered pricing intelligence that fuses Stripe revenue data with competitor benchmarks to suggest optimal prices with clear explanations.** ⚡
 
